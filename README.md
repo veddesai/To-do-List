@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    **# To-do-List**
+   <strong>#To-do-list</strong>
 </p>
 Stay organized with JavaScript Based To-Do List.
 
