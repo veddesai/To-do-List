@@ -1,4 +1,6 @@
-                                                                       # To-do-List
+<p align="center" width="100%">
+    # To-do-List
+</p>
 Stay organized with JavaScript Based To-Do List.
 
 
